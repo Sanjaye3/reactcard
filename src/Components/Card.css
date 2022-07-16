@@ -1,0 +1,49 @@
+.Card{
+    border: 30px solid  #2599F8 ;
+    width:400px;
+    height:470px;
+    background: white;
+    border-radius: 50px;
+    padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: .1px;
+  padding-left: 20px;
+
+}
+div:hover{
+    padding-top: 10px;
+}
+
+.lower > button{
+    height: 50px;
+    width: 350px;
+     border-radius: 50px;
+     border-top: 500px;
+     font-weight: bold
+     }
+
+
+.first{
+    color: rgb(171, 186, 186);
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+
+.middle {
+    text-align: left;
+    /* opacity: 0.5; */
+    margin: 45px;
+  }
+ 
+.Upper{
+    text-align: center;
+    
+}
+li{
+    list-style: none;
+}
+.muted-text {
+    opacity: 0.5;
+}
